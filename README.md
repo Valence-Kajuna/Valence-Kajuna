@@ -29,4 +29,6 @@ A softaware Engineering Student at the University of Dodoma, Tanzania.
 
 ## 📞 Connect with me
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvalence-fredrick-65ab77146%2F&count_bg=%235494D7&title_bg=%23555555&icon=linkedin.svg&icon_color=%235494D7&title=Linkedln&edge_flat=false)](https://www.linkedin.com/in/valence-fredrick-65ab77146/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FValence-Kajuna&count_bg=%23FFFFFF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://github.com/Valence-Kajuna)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftwitter.com%2FValence_Kajuna&count_bg=%234E93DB&title_bg=%234F5154&icon=twitter.svg&icon_color=%236294C9&title=Twitter&edge_flat=false)](https://twitter.com/Valence_Kajuna)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Fvalencykajuna%2F&count_bg=%23C42D9C&title_bg=%23555555&icon=instagram.svg&icon_color=%23DB119A&title=Instagram&edge_flat=false)](https://www.instagram.com/valencykajuna/)

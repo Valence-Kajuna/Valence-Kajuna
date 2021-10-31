@@ -1,12 +1,9 @@
 ## Hi there 👋
-# I am Valence Kajuna
-A softaware Engineering Student at the University of Dodoma, Tanzania.
+# I am Valence Fredrick
 
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
-- 🔭 I’m currently working on Web Development with React Js Library.
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Web Development specifically with React Js Library.
-- 🤔 I’m looking for help with Flutter and Dart.
+- 🔭 I’m currently working on Web Development with FLASK-Python and HTML,CSS and JS
+- 👯 I’m looking to collaborate on Full Stack Web Development specifically Flask Framework.
 - 📫 How to reach me: valencekajuna@yahoo.com📩
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Any sufficiently advanced technology is indistinguishable from magic 🪄

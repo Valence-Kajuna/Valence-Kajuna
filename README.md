@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Any sufficiently advanced technology is indistinguishable from magic 🪄
 
-[![Valence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valence-Kajuna)](https://github.com/Valence-Kajuna/github-readme-stats)
+[![Valence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valence-Kajuna&count_private=true)](https://github.com/Valence-Kajuna/github-readme-stats)

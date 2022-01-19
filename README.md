@@ -12,4 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valence-Kajuna&langs_count=8)](https://github.com/Valence-Kajuna/github-readme-stats)
 
-[![Valence's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Valence-Kajuna)](https://github.com/Valence-Kajuna/github-readme-stats)
+[![Valence's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valencefredrick)](https://github.com/Valence-Kajuna/github-readme-stats)

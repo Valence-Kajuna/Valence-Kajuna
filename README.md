@@ -34,6 +34,8 @@
 <code><img height="50" src="https://3.bp.blogspot.com/-RH0O7wYQXUc/VozSayGFPlI/AAAAAAAALjc/nhg8bQ_PQR8/s1600/Android_Studio_icon.svg.png"></code>
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"></code>
 <code><img height="50" src="https://www.minecraftkrant.nl/media/166/java-logo.png"></code>
+<code><img height="50" src="https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png"></code>
+
 
 
 [![Valence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valence-Kajuna&count_private=true)](https://github.com/Valence-Kajuna/github-readme-stats)

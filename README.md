@@ -7,3 +7,5 @@
 - 📫 How to reach me: valencemuganda@gmail.com 📩 +255765975152 📱
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Any sufficiently advanced technology is indistinguishable from magic 🪄
+
+[![Valence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valence-Kajuna)](https://github.com/Valence-Kajuna/github-readme-stats)

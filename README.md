@@ -9,3 +9,5 @@
 - ⚡ Fun fact: Any sufficiently advanced technology is indistinguishable from magic 🪄
 
 [![Valence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valence-Kajuna&count_private=true)](https://github.com/Valence-Kajuna/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valence-Kajuna&langs_count=8)](https://github.com/Valence-Kajuna/github-readme-stats)

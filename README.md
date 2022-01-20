@@ -38,8 +38,21 @@
 
 
 
-[![Valence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valence-Kajuna&count_private=true)](https://github.com/Valence-Kajuna/github-readme-stats)
+[![Valence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valence-Kajuna&count_private=true&show_icons=true)](https://github.com/Valence-Kajuna)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valence-Kajuna&langs_count=8)](https://github.com/Valence-Kajuna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valence-Kajuna&langs_count=8)](https://github.com/Valence-Kajuna)
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+## Wakatime Stats
+> Expand to see details
+<details>
+  <summary> 
+    WakaTime Dashboard
+  </summary>
+  <p>
+    <img src="https://wakatime.com/share/@valencefredrick/06c74ff7-c778-4667-8b07-865e9ef49757.svg" height="400" width="600">
+  </p>
+  <p>
+    <img src="https://wakatime.com/share/@valencefredrick/e1a3f6a6-9a2a-4aa4-8d98-f7b6a0b1f245.svg" height="400" width="600">
+  </p>
+</details>
+

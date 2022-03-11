@@ -42,17 +42,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valence-Kajuna&langs_count=8)](https://github.com/Valence-Kajuna)
 
-## Wakatime Stats
-> Expand to see details
-<details>
-  <summary> 
-    WakaTime Dashboard
-  </summary>
-  <p>
-    <img src="https://wakatime.com/share/@valencefredrick/06c74ff7-c778-4667-8b07-865e9ef49757.svg" height="400" width="600">
-  </p>
-  <p>
-    <img src="https://wakatime.com/share/@valencefredrick/e1a3f6a6-9a2a-4aa4-8d98-f7b6a0b1f245.svg" height="400" width="600">
-  </p>
-</details>
-

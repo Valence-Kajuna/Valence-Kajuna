@@ -3,7 +3,7 @@
 
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 - 🔭 I’m currently working on Web and Android Development.
-- 👯 I’m looking to collaborate on Full Stack Web and Android Development.
+- 👯 I’m looking to collaborate on Full Stack Web.
 - 📫 How to reach me: valencemuganda@gmail.com 📩 +255765975152 📱
 - 🌐 [Website Portifolio](https://www.valencefredrick.me)
 - 😄 Pronouns: He/Him

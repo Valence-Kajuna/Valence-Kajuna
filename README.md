@@ -9,7 +9,6 @@ I enjoy writing software.
 ### Lets Develop Android Applications together using:
 - Android Studio
 - Kotlin/ Java
-- Material Design
 
 The above are my favourite. But we can still collaborate on other stacks.
 Feel free to connect

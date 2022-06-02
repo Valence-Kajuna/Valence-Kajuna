@@ -1,4 +1,4 @@
-# It's Valence Fredrick
+# I am Valence Fredrick
 I enjoy writing software.
 
 ### Lets Develop Web Apps together using:

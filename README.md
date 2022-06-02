@@ -1,5 +1,5 @@
 # I am Valence Fredrick
-I enjoy writing web and android applications.
+I enjoy developing web and android applications.
 
 ## Tech Stacks
 ### Web Development

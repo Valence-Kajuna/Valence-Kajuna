@@ -3,7 +3,7 @@ I enjoy developing web and android applications.
 
 ## Tech Stacks
 ### Web Development
-- Frontend: ReactJs, NextJs, Tailwind CSS
+- Frontend: VueJs, NuxtJs, Tailwind CSS
 - Backend: PHP -> Laravel
 - Databases: SQL & NoSQL
 

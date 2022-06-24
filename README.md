@@ -1,12 +1,12 @@
-# I am Valence Fredrick
-I enjoy developing web and android applications.
+## Hey everyone, Valence here  👋
+I am a full-stack developer with the love for Web and Android Development currently living in Dodoma, Tanzania.
 
-## Tech Stacks
-### Web Development
-- Frontend: VueJs, NuxtJs, Tailwind CSS
-- Backend: PHP -> Laravel
-- Databases: SQL & NoSQL
+### Favourite Tech Stacks
+#### Web Development
+- Laravel
+- Vue Js
+- Tailwind Css
 
-### Android Development
+#### Android Development
+- Kotlin
 - Android Studio
-- Kotlin/ Java
